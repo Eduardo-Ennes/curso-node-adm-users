@@ -1,0 +1,9 @@
+**/node_modules
+**/public
+**/.browserslistrc
+**/.eslintrc.js
+**/babel.config.js
+**/jsconfig.json
+**/vue.config.js
+**/package.json
+**/package-lock.json
